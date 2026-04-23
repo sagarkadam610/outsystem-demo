@@ -1,7 +1,4 @@
 {
-  "name": "webflow-cloud-app",
-  "main": "index.js",
-  "compatibility_date": "2024-01-01",
   "r2_buckets": [
     {
       "binding": "R2",
